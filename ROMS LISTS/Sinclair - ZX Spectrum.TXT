@@ -1,0 +1,632 @@
+180.tap
+1942.tap
+3D Lunattack.tap
+3D Pinball.tap
+3D Pool.tap
+3D Seiddab Attack.tap
+3D Space-Wars.tap
+3D Starstrike.tap
+3D-Tanx.tap
+911 TS.tap
+A Question of Sport.tap
+Academy.tap
+Ad Astra.tap
+After Burner.tap
+Agent X in the Brain Drain Caper.tap
+Ah Diddums.tap
+Airwolf.tap
+Alchemist.tap
+Alien 8.tap
+Alien Highway.tap
+Alien Syndrome.tap
+Alien.tap
+All or Nothing.tap
+Amaurote.tap
+Anarchy.tap
+Android One - The Reactor Run.tap
+Android Two.tap
+Ant Attack.tap
+Antics.tap
+APB.tap
+Arcadia.tap
+Arena 3000.tap
+Arkanoid - Revenge of Doh.tap
+Arkanoid.tap
+Astro Marine Corps - Level 1.z80
+Astro Marine Corps - Level 2.z80
+Astroball.tap
+Astroclone.tap
+ATF.z80
+Athena.tap
+Atic Atac.tap
+ATV Simulator.tap
+Auf Wiedersehen Monty.tap
+Automania.tap
+B.C. Bill.tap
+Back to Skool.tap
+Back to the Future.tap
+Backpackers Guide to the Universe.tap
+Bad Dudes vs. Dragon Ninja.tap
+Barbarian - The Ultimate Warrior.tap
+Barry McGuigan World Championship Boxing.tap
+Basket Master.tap
+Batman - The Caped Crusader.tap
+Batman - The Movie.tap
+Batman.tap
+Batty.tap
+Beyond the Ice Palace.tap
+Bionic Commandos.tap
+Blasteroids.tap
+Blinky's Scary School.tap
+Bloodwych.tap
+BMX Simulator.tap
+Bobby Bearing.tap
+Bobsleigh.tap
+Bomb Jack II.tap
+Bomb Jack.tap
+Booty.tap
+Boulder Dash.tap
+Bounces.tap
+Bounder.tap
+Bounty Bob Strikes Back!.tap
+Brian Bloodaxe.tap
+Bronx Street Cop.tap
+Bruce Lee RX.tap
+Bruce Lee.tap
+Bubble Bobble.tap
+Bubble Buster.tap
+Bubbler.tap
+Bugaboo the Flea.tap
+Buggy Boy.tap
+Bully's Sporting Darts.tap
+C5 Clive.tap
+Cabal.tap
+Captain Blood.tap
+Captain Fizz Meets the Blaster-Trons.tap
+Carrier Command.tap
+Castle Master II - The Crypt.tap
+Castle Master.tap
+Cauldron II - The Pumpkin Strikes Back.tap
+Cauldron.tap
+Cavelon.tap
+Chain Reaction.tap
+Chaos - The Battle of Wizards.tap
+Chase H.Q. II - Special Criminal Investigations.tap
+Chase H.Q..tap
+Chequered Flag.tap
+Chip's Challenge.tap
+Chuckie Egg.tap
+Cisco Heat - All American Police Car Race.tap
+CJ's Elephant Antics.tap
+Cobra.tap
+Cobra's Arc.tap
+Codename MAT.tap
+Combat Lynx.tap
+Combat School.tap
+Commando.tap
+Computer Scrabble.tap
+Confuzion.tap
+Contact Sam Cruise.tap
+Continental Circus.tap
+Cookie.tap
+Cosmic Cruiser.tap
+Count Duckula.tap
+Crazy Cars II.tap
+Critical Mass.tap
+Crosswize.z80
+Cybernoid - The Fighting Machine.tap
+Cybernoid II - The Revenge.tap
+Cyberun.tap
+Cyclone.tap
+Daley Thompson's Decathlon.tap
+Daley Thompson's Olympic Challenge.tap
+Daley Thompson's Super-Test.tap
+Dan Dare - Pilot of the Future.tap
+Dan Dare II - Mekon's Revenge - SU Edition.tap
+Dan Dare III - The Escape.tap
+Darius+.tap
+Dark Fusion.tap
+Dark Sceptre.tap
+Dark Side.tap
+Dark Star.tap
+Darkman.tap
+Deactivators.tap
+Death Star Interceptor.tap
+Deathchase.tap
+Deep Strike.tap
+Defenda.tap
+Deflektor.tap
+Deus Ex Machina.tap
+Dictator.tap
+Di-Lithium Lift.tap
+Dizzy - The Ultimate Cartoon Adventure.tap
+Dizzy 5 - Spellbound Dizzy.tap
+Dizzy 7 - Crystal Kingdom Dizzy.tap
+Dizzy Down the Rapids.tap
+Dizzy II - Treasure Island Dizzy.tap
+Dizzy III - Fantasy World Dizzy.tap
+Dizzy IV - Magicland Dizzy.tap
+Dizzy VI - Dizzy, Prince of the YolkFolk.tap
+Don Quijote de la Mancha - Side A.tap
+Don Quijote de la Mancha - Side B.tap
+Doomdark's Revenge.tap
+Double Dragon III - The Rosetta Stone.tap
+Draconus.tzx
+Dragon Breed.tzx
+Driller.tap
+Druid II - Enlightenment.tap
+Druid.tap
+Duet - Commando 87.tap
+Dun Darach.tap
+Dungeon Adventure.z80
+Dustin.tap
+Dynamite Dan II - Dr Blitzen and the Islands of Arcanum.tap
+Dynamite Dan.tap
+Earth Shaker.tap
+Earthlight.tap
+EastEnders.tap
+El Capitan Trueno - Level 1.tap
+El Capitan Trueno - Level 2.tap
+Elevator Action.tap
+Eliminator.tap
+Elite.tap
+Emlyn Hughes International Soccer.tap
+E-motion.tap
+Enduro Racer.tap
+Enigma Force.tap
+Equinox.tap
+Eric and the Floaters.tap
+Escape from the Planet of the Robot Monsters.tap
+Evening Star.tap
+Everyone's a Wally.tap
+Exolon.tap
+Extreme.tap
+F-15 Strike Eagle.tap
+Fairlight - A Prelude - The Light Revealed.tap
+Fairlight II.tap
+Fantasia Diamond.tap
+Fantastic Voyage.tap
+Fat Worm Blows a Sparky.tap
+Feud.tap
+Fighter Pilot.tap
+Finders Keepers.tap
+Firefly.tap
+Firelord.tap
+Fist II - The Legend Continues.tap
+Flying Shark.tap
+Football Director.tap
+Football Manager 2.tap
+Football Manager.tap
+Footballer of the Year 2.tap
+Footballer of the Year.tap
+Formula 1 Simulator.tap
+Frank Bruno's Boxing.tap
+Frank N Stein.tap
+Frankie Goes to Hollywood.tap
+Fred.tap
+Fruit Machine Simulator 2 - Mega Trek.tap
+Full Throttle.tap
+Galaxian.tap
+Galivan - Cosmo Police.tap
+Gauntlet II.tap
+Gauntlet III - The Final Quest.tap
+Gauntlet.tap
+G-Force.tap
+Ghostbusters.tap
+Ghouls 'n' Ghosts.tap
+Glider Rider.tap
+Globular Troubles.tap
+Glug Glug.tap
+Golden Axe.tzx
+Golf.tap
+Grand National.tap
+Green Beret.tap
+Gremlins - The Adventure.tap
+Gremlins 2 - The New Batch.tap
+Gryzor.tap
+Guardian II - Revenge of the Mutants.tap
+Gun Law.tap
+Gunfright.tap
+Gunrunner.tap
+Gyron Arena.tap
+Gyroscope.tap
+H.A.T.E..tap
+Hacker II - The Doomsday Papers.tap
+Hacker.tap
+Halls of the Things.tap
+Hammerfist.tap
+Harrier Attack!.tap
+Harvey Headbanger.z80
+Havoc.tap
+Head over Heels.tap
+Heartland.tap
+Heathrow International Air Traffic Control.tap
+Heavy on the Magick.tap
+Helter Skelter.tap
+Herbert's Dummy Run.tap
+Hero Quest.tap
+Highlander.tap
+Highway Encounter.tap
+Hijack.tap
+Hopping Mad.tap
+Horace Goes Skiing.tap
+Hudson Hawk.tap
+Hunchback II - Quasimodo's Revenge.tap
+Hunchback.tap
+Hundra.tap
+Hustler.tap
+Hydra.tap
+Hydrofool.tap
+Hypaball.tap
+Hyper Sports.tap
+Hyperaction.tap
+Hysteria.tap
+I, Ball.tap
+I, of the Mask.tap
+I.C.U.P.S..tap
+Ice-Breaker.tap
+IK+.tap
+Ikari Warriors.tzx
+Impossaball.tap
+Impossible Mission II.tap
+Impossible Mission.tap
+Indiana Jones and the Fate of Atlantis.tap
+Infiltrator.tzx
+International Match Day.tap
+Into the Eagle's Nest.tap
+Ivan 'Ironman' Stewart's Super Off Road Racer.tap
+Jack the Nipper II - In Coconut Capers.tap
+Jack the Nipper.tap
+Jackal.tap
+Jet Pac.tap
+Jet Set Willy II - The Final Frontier.tap
+Jet Set Willy.tzx
+Jinxter.dsk
+Joe Blade II.tzx
+Journey's End.tap
+Jumping Jack.tap
+Jungle Trouble.tap
+Karnov.tap
+Kayleth.tap
+Kenny Dalglish Soccer Manager.tap
+Kick Off.tap
+Klax.tap
+Knight Lore.tap
+Knight Orc - A Kind of Magic.z80
+Knight Orc - Hordes of the Mountain King.z80
+Knight Orc - Loosed Orc.z80
+Knight Rider.tzx
+Knight Tyme.tap
+Knot in 3D.tap
+Kokotoni Wilf.tap
+Konami's Golf.tap
+Konami's Ping Pong.tap
+Konami's Tennis.tap
+Krakout.tap
+Kwik Snax.tap
+La Abadia del Crimena.tap
+Land of Mire Mare.tap
+Laser Squad.tap
+Last Ninja 2 - Back with a Vengeance.tap
+Leader Board.tap
+Lemmings.tap
+Light Force.tap
+LIST.TXT
+Lode Runner.tap
+Loopz.tap
+Lord of the Rings - Game One - Beginner.tap
+Lords of Chaos.tap
+Lords of Time.tap
+Lotus Esprit Turbo Challenge.tap
+Lunar Jetman.tap
+M.O.V.I.E..tap
+Mad Mix Game - The Pepsi Challenge.z80
+Mag Max - Robo Centurion.tap
+Manic Miner.tap
+Marauder.tap
+Marsport.tap
+Martianoids.tap
+MASK III - VENOM Strikes Back.tap
+Match Day II.tap
+Match Day.tap
+Match Point.tap
+Max Headroom.tap
+Maze Chase.tap
+Maziacs.tap
+Mercenary - Escape from Targ.tap
+Miami Vice.tap
+Micronaut One.tap
+MicroProse Soccer.tap
+Midnight Resistance.tap
+Mike Read's Pop Quiz.tap
+Mikie.tap
+Minder.tap
+Mined Out.tap
+Molar Maul.tap
+Monty on the Run.tap
+Monty Python's Flying Circus.tap
+Moon Alert!.tap
+Moon Strike.tap
+Motos.tap
+Mountains of Ket.tap
+Mr. Freeze.tap
+Ms. Pac-Man.tap
+Mugsy.tap
+Mugsy's Revenge.tap
+Multi-Player Soccer Manager.tap
+Myth - History in the Making.tap
+NARC.tap
+Nebulus.tap
+Nether Earth.tap
+Netherworld.tap
+Nigel Mansell's World Championship.tap
+Night Shift.tzx
+Nightflite II.tap
+Nightflite.tap
+Nightshade.tap
+Nodes of Yesod.tap
+North and South.tap
+North Star.tap
+Nosferatu the Vampyre.tap
+Ocean Conqueror.tap
+Olli and Lissa 3.tap
+Olli and Lissa.tap
+One-on-One.tap
+Operation Thunderbolt.tap
+Operation Wolf.tap
+Out of This World.tap
+Out Run.tap
+Overlander.tap
+Pac-Man.tap
+Pac-Mania.tap
+Pang.tap
+Paperboy.tap
+Paris-Dakar.tzx
+Pedro.tap
+Peking.tap
+Penetrator.tap
+Pentagram.tap
+Percy the Potty Pigeon.tap
+Pheenix.tap
+Pick 'n' Pile.tap
+Pipe Mania.tap
+Plotting.tap
+Pogo.tap
+Popeye.tap
+Power Drift - Side 1.tzx
+Power Drift - Side 2.tzx
+Pro PowerBoat Simulator.tap
+Pro Tennis Tour.tap
+Professional Ski Simulator.tap
+Psi Chess.tap
+Psi-5 Trading Company.tap
+Pssst.tap
+Psycho Soldier.tap
+Psytron.tap
+Puzznic.tap
+Pyjamarama.tap
+Pyracurse.tap
+Quazatron.tap
+Quest Adventure.tap
+Raid over Moscow.tap
+Rainbow Islands - The Story of Bubble Bobble 2.tap
+Rambo - First Blood Part II.tap
+Rambo III.tap
+Ranarama.z80
+Rastan Saga.tap
+Rebelstar - 1 Player.tap
+Rebelstar 2 - Alien Encounter - 1 Player.tap
+Reckless Rufus.tap
+Red Moon.tap
+Renegade III - The Final Chapter.tap
+Renegade.tap
+Rescue.tap
+Return To Eden.tzx
+Revolution.tap
+Rex.tap
+Rick Dangerous 2.tap
+Rick Dangerous.tap
+Rider.tap
+Rigel's Revenge.z80
+Road Runner.z80
+Robin of the Wood.tap
+RoboCop 2.z80
+RoboCop.tap
+Robotron - 2084.tap
+Rocco.tap
+Rock Star Ate My Hamster!.tap
+Rod-Land.tap
+Rogue.tap
+Roller Coaster.tap
+Rolling Thunder.tap
+Room Ten.tap
+R-Type.tap
+Rugby Manager.tap
+Run the Gauntlet.tap
+S.A.S. Combat Simulator.tap
+Saboteur II - Avenging Angel.tap
+Saboteur!.z80
+Sabre Wulf.tap
+Sai Combat.tap
+Sailing.z80
+Salamander.tap
+Satan - Side A.tzx
+Satan - Side B.tzx
+Savage Island 1.tap
+Savage Island 2.tap
+Savage.tap
+Sceptre of Bagdad.tap
+Schizoids.tap
+Scooby Doo.tap
+Scuba Dive.tap
+Shadow of the Beast.tzx
+Shadowfire Tuner.tap
+Sherlock.z80
+Sidewize.tap
+Sigma 7.tap
+Silkworm.z80
+SimCity.tap
+Sir Fred.tap
+Sir Lancelot.tap
+Skool Daze.tap
+Slaine, the Celtic Barbarian.tap
+Slap Fight.tap
+Slightly Magic.tap
+Smash TV.tap
+Snowball.tap
+Soldier of Fortune.tap
+Solomon's Key.tap
+Sorderon's Shadow - The Legend of Elindor.tap
+Southern Belle.tap
+Space Crusade.tap
+Space Gun.tap
+Space Harrier.tap
+Space Raiders.tap
+Space Station Zebra.tap
+Spectral Panic.tap
+Specvaders.tap
+Spellbound.tap
+Spiky Harold Goes Hibernating.tzx
+Spindizzy.tap
+Splat!.tap
+Splitting Images.tap
+Springbot.tap
+Spy Hunter.tzx
+Spy vs Spy.tap
+Stack Up.tap
+Stalingrad.tap
+Star Raiders II.tap
+Star Wars.tap
+Starfox.tap
+Starglider 2 - The Egrons Strike Back.tap
+Starglider.tap
+Starion.tap
+Starquake.tap
+Starstrike II.tap
+Steve Davis Snooker.tap
+Stock Market.tap
+Stonkers.tap
+Stop the Express.tap
+Stormbringer.tap
+Stormlord II - Deliverance.tap
+Stormlord.tap
+Strange Loop.tap
+Striker.tap
+Stunt Car Racer.tap
+Subbuteo - The Computer Game.tap
+Super Cars.z80
+Super G-Man.tap
+Super Gran.tap
+Super Hang-On.tzx
+Super Pipeline II.tap
+Super Robin Hood.tap
+Super Scramble Simulator.tap
+Super Soccer.tap
+Superman - The Game.tap
+Supertrux.tap
+Sweevo's World.tzx
+Switchblade.tap
+SWIV.tap
+Swords and Sorcery.tap
+T.L.L..tap
+Tai-Pan.tap
+Tapper.tap
+Target - Renegade.tap
+Tau Ceti - The Special Edition.tap
+Technician Ted - The Megamix.z80
+Teenage Mutant Hero Turtles.tap
+Terra Cresta.tap
+Tetris.tap
+Thanatos.tap
+The Arc of Yesod.tap
+The Bard's Tale.tap
+The Biz.tap
+The Chip Factory - Featuring 'Technician Ted'.z80
+The Crypt.tap
+The Dragontorc of Avalon.tap
+The Dukes of Hazzard.tap
+The Fall Guy.tap
+The Forest of Doom.tap
+The Great Escape.tap
+The Hobbit.tap
+The Legend of Avalon.tap
+The Legend of Kage.tap
+The Living Daylights - The Computer Game.tap
+The Lords of Midnight.tap
+The New Zealand Story.tap
+The Plot.tap
+The Price of Magik.z80
+The Ring of Darkness.tap
+The Rocky Horror Show.tap
+The Sacred Armour of Antiriad.tap
+The Sentinel.tap
+The Shadows of Mordor.tap
+The Silicon Dreams 3 - Worm in Paradise.tap
+The Thompson Twins Adventure.tap
+The Train Game.z80
+The Transformers.tap
+The Trap Door.tap
+The Untouchables.tap
+The Vindicator!.tap
+The Way of the Exploding Fist.tap
+The Way of the Tiger.tap
+The Wild Bunch.tap
+Theatre Europe.tap
+They Stole a Million.tap
+Think!.tap
+Three Weeks in Paradise.tap
+Through the Trap Door.tap
+Thrust II.tap
+Thrust.tap
+ThunderCats.tap
+Tir Na Nog.tap
+Tomahawk.tap
+Total Eclipse 2 - The Sphinx Jinx.tap
+Total Eclipse.tap
+Track Suit Manager.tap
+Trailblazer.tap
+Trantor - The Last Stormtrooper.tap
+Tranz Am.tap
+Trashman.tap
+Travel with Trashman.tap
+Turbo Esprit.tap
+Turbo Out Run.tap
+Turbo the Tortoise.tap
+Turmoil.tap
+Turrican II - The Final Fight.tap
+Turrican.tap
+Typhoon.tap
+Underwurlde.tap
+Urban Upstart.tap
+Uridium.tap
+Victory Road - The Pathway to Fear.tap
+Virus.tap
+Vulcan.tap
+Wanderer 3D.tap
+Wanted - Monty Mole.tap
+WEC Le Mans.tap
+West Bank.tap
+Wheelie.tap
+Where Time Stood Still.tap
+Who Dares Wins II.tap
+Winter Games.z80
+Wizard's Lair.tap
+Wizball.tap
+Wonder Boy.tap
+World Championship Soccer.tap
+World Series Baseball.z80
+World Series Basketball.tap
+Worse Things Happen at Sea.tap
+Wriggler.tap
+Xecutor.tap
+Xeno.tap
+Xevious.tap
+Yie Ar Kung-Fu 2.tap
+Yie Ar Kung-Fu.tap
+Zanthrax - Race of the Future.z80
+Zip-Zap.tap
+Zombi.tap
+Zona 0.tap
+Zub.tap
+Zynaps.z80
+Zzoom.tap

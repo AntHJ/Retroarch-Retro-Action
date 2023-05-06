@@ -1,0 +1,59 @@
+Armor Battle.mgw
+Banana.mgw
+Baseball.mgw
+Bomb Fight.mgw
+Caccia al Ladro.mgw
+Cessate il Fuoco.mgw
+Chicky Woggy - Arcade Time and Fun.mgw
+Chicky Woggy - Electronic Tini-Arcade.mgw
+Condor.mgw
+Crazy Chewy.mgw
+Defendo.mgw
+Donkey Angler.mgw
+Donkey Kong - Coleco.mgw
+Donkey Kong - Nintendo, Multi Screen.mgw
+Donkey Kong Circus.mgw
+Donkey Kong II.mgw
+Donkey Kong Jr. - Coleco.mgw
+Donkey Kong Jr. - Nintendo, Panorama Screen.mgw
+Donkey Kong Jr. - Nintendo, Table Top.mgw
+Dungeons and Dragons Computer Fantasy Game.mgw
+Egg.mgw
+Engine Room.mgw
+Escape.mgw
+Explorers of Space.mgw
+Fowling.mgw
+Frog Boaster.mgw
+Galaxy II.mgw
+Grab Man.mgw
+Hippo Teeth - Mini Time and Fun.mgw
+Hippo Teeth - Sporty Time and Fun.mgw
+Hot Line  - Mini Time and Fun.mgw
+Hot Line - Sporty Time and Fun.mgw
+Las Vegas.mgw
+Lifeboat.mgw
+LIST.TXT
+Mario Bros..mgw
+Mario's Bombs Away.mgw
+Mickey Mouse - Nintendo, Panorama Screen.mgw
+Mickey Mouse - Nintendo, Wide Screen.mgw
+Monkey Jump.mgw
+Monkey.mgw
+Motor Cross.mgw
+Pac-Man.mgw
+Pancake.mgw
+Penguin Land.mgw
+Pirate.mgw
+Roller Coaster.mgw
+Safari.mgw
+Sleep Walker.mgw
+Snoopy - Nintendo, Panorama Screen.mgw
+Snoopy - Nintendo, Table Top.mgw
+Snoopy Tennis.mgw
+Sub Chase.mgw
+Tennis Menace.mgw
+Tom and Jerry Popper.mgw
+Towering Rescue.mgw
+Tron.mgw
+Turtle Bridge.mgw
+Wild Man Jump.mgw

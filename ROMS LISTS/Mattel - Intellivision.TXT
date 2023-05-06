@@ -1,0 +1,50 @@
+Astrosmash.int
+Atlantis.int
+Beamrider.int
+Beauty and the Beast.int
+Bump 'n' Jump.int
+BurgerTime!.int
+Buzz Bombers.int
+Centipede.int
+Chip Shot - Super Pro Golf.int
+Commando.int
+Congo Bongo.int
+Defender.int
+Demon Attack.int
+Dig Dug.int
+Diner.int
+Donkey Kong Jr.int
+Donkey Kong.int
+Dracula.int
+Duncan's Thin Ice.int
+Frogger.int
+Ice Trek.int
+Lady Bug.int
+LIST.TXT
+Lock 'n' Chase.int
+Masters of the Universe-The Power of He-Man!.int
+Mouse Trap.int
+Pac-Man.int
+Pinball.int
+Pitfall!.int
+Q-bert.int
+Sewer Sam.int
+Space Armada.int
+Space Hawk.int
+Star Strike.int
+Star Wars - The Empire Strikes Back.int
+Super Cobra.int
+Super Masters!.int
+Swords and Serpents.int
+The Dreadnaught Factor.int
+Thunder Castle.int
+Tower of Doom.int
+TRON - Deadly Discs.int
+TRON - Maze-A-Tron.int
+Tropical Trouble.int
+Tutankham.int
+Vectron.int
+Venture.int
+White Water!.int
+Worm Whomper.int
+Zaxxon.int

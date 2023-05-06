@@ -1,0 +1,26 @@
+3-D Tetris.vb
+Bound High.vb
+Galactic Pinball.vb
+Golf.vb
+Hyper Fighting.vb
+Innsmouth no Yakata.vb
+Jack Bros..vb
+LIST.TXT
+Mario Clash.vb
+Mario's Tennis.vb
+Nester's Funky Bowling.vb
+Niko-chan Battle.vb
+Panic Bomber.vb
+Red Alarm.vb
+SD Gundam - Dimension War [Translated] (Japan).vb
+Space Invaders - Virtual Collection.vb
+Space Squash [Translated] (Japan).vb
+Teleroboxer.vb
+Vertical Force.vb
+Virtual Bowling.vb
+Virtual Boy Wario Land.vb
+Virtual Fishing [Translated] (Japan).vb
+Virtual Lab.vb
+Virtual League Baseball.vb
+V-Tetris.vb
+Waterworld.vb
